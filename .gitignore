@@ -4,6 +4,7 @@ lib/
 .idea/
 *.swp
 *.vim
+*.log
 package-lock.json
 yarn.lock
 yarn-error.log
